@@ -31,7 +31,7 @@
 
 # 📌 Featured Projects
 
-## 💻 Online Compiler with AI Assistant *(Leader)*
+## 💻 Online Compiler with AI Assistant *(Contributor)*
 
 **Tech Stack:** ReactJS • Node.js • Express.js • MongoDB
 

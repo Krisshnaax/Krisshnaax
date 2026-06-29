@@ -73,16 +73,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Krisshnaax&theme=onestar&no-frame=true"/>
-</p>
-
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-
----
-
 # 📜 Certifications
 
 * Microsoft Certified: Azure AI Fundamentals
